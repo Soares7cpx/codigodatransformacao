@@ -6,7 +6,7 @@ caixa= 'celular'
 print("caixa")
 
 nome= 'Henzo'
-idade= 15
+idade= 16
 altura= 1,73
 estudante= True
 print(nome, idade, altura, estudante)
