@@ -8,7 +8,6 @@ print("caixa")
 nome= 'Henzo'
 idade= 15
 altura= 1,73
-72
 estudante= True
 print(nome, idade, altura, estudante)
 
